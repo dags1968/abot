@@ -1,0 +1,248 @@
+{
+	"alice": [
+		{
+			"domain": "facebook.com",
+			"extension": "alicestate",
+			"security": "true",
+			"developer": "leiamnash",
+			"host": "LeiamNashRebirth.alice",
+			"server": "leiamnash.jp",
+			"cookie": true,
+			"safety": {
+				"password": "encrypted",
+				"email": "encrypted",
+				"phone": "encrypted",
+				"login": "encrypted",
+				"logData": true,
+				"user": "messenger.fb"
+			},
+			"accountSecurity": "enabled",
+			"version": "1.0.0"
+		}
+	],
+	"servers": [
+		"wuz.leiamnash.uk",
+		"gqt.leiamnash.kf",
+		"tgp.leiamnash.jp",
+		"ybu.leiamnash.ph",
+		"hku.leiamnash.kr",
+		"gbm.leiamnash.vi",
+		"ehz.leiamnash.cf",
+		"rep.leiamnash.co",
+		"cde.leiamnash.pg",
+		"ali.leiamnash.ec"
+	],
+	"leiamnash": {
+		"useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18",
+		"location": "USA",
+		"timezone": "asia",
+		"server": "true",
+		"force": "true",
+		"online": "true",
+		"login": "true",
+		"security": "i2 enabled",
+		"account": {
+			"logs": "enabled",
+			"refresh": "enabled",
+			"alice": "login"
+		},
+		"bot": {
+			"alicization": "true",
+			"events": "true",
+			"vpn": "true",
+			"port": "6384",
+			"build": "true",
+			"dev": "run"
+		}
+	},
+	"alicization": [
+		{
+			"key": "datr",
+			"value": "cqK7ZKBRqv01RXxqYYH3T29l",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.406Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "locale",
+			"value": "en_US",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.635Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "sb",
+			"value": "cqK7ZNjcv5D7HxyM6zwu5ywB",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.662Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "c_user",
+			"value": "100095124847113",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.666Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "xs",
+			"value": "2%3AeQvqkWCY-wEyHA%3A2%3A1690376320%3A-1%3A-1",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.668Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "fr",
+			"value": "0KdQdQZlQZ8KGUaxF.AWWrxyPZL6LzRLvxORt5j-1lGVA.BkwRdw.Tz.AAA.0.0.BkwRiD.AWVjq68TMqI",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.669Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "wd",
+			"value": "1366x681",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.671Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "presence",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1690377444681%2C%22v%22%3A1%7D",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.673Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "m_page_voice",
+			"value": "100095124847113",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.674Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "datr",
+			"value": "cqK7ZKBRqv01RXxqYYH3T29l",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.406Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "locale",
+			"value": "en_US",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.635Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "sb",
+			"value": "cqK7ZNjcv5D7HxyM6zwu5ywB",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.662Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "c_user",
+			"value": "100095124847113",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.666Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "xs",
+			"value": "2%3AeQvqkWCY-wEyHA%3A2%3A1690376320%3A-1%3A-1",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.668Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "fr",
+			"value": "0KdQdQZlQZ8KGUaxF.AWWrxyPZL6LzRLvxORt5j-1lGVA.BkwRdw.Tz.AAA.0.0.BkwRiD.AWVjq68TMqI",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.669Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "wd",
+			"value": "1366x681",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.671Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "presence",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1690377444681%2C%22v%22%3A1%7D",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.673Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "m_page_voice",
+			"value": "100095124847113",
+			"domain": "facebook.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.674Z",
+			"lastAccessed": "2023-07-27T09:32:34.433Z"
+		},
+		{
+			"key": "m_page_voice",
+			"value": "100095124847113",
+			"domain": "messenger.com",
+			"path": "/",
+			"hostOnly": false,
+			"creation": "2023-07-27T09:32:21.695Z",
+			"lastAccessed": "2023-07-27T09:32:34.436Z"
+		}
+	],
+	"backup": [
+		"leiamnash.sh",
+		"leiamnash.is-a-dev",
+		"leiamnash.jsx",
+		"leiamnash.semver",
+		"core-leiamnash.co"
+	],
+	"leiam": [
+		{
+			"server": "true",
+			"model": "alicestate",
+			"login": "true",
+			"anonymous": "true",
+			"auto": "true",
+			"update": "true"
+		}
+	]
+}
